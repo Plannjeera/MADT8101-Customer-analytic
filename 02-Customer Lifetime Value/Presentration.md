@@ -1,0 +1,7 @@
+![image](https://github.com/Plannjeera/MADT8101-Customer-analytic/assets/115640119/906b69b2-de67-4d53-bc1b-3135eb25160c)
+![image](https://github.com/Plannjeera/MADT8101-Customer-analytic/assets/115640119/e500adf4-bf45-4c49-bdd4-267418213240)
+![image](https://github.com/Plannjeera/MADT8101-Customer-analytic/assets/115640119/2ac83652-3c51-462c-95e4-f9307bc143f6)
+![image](https://github.com/Plannjeera/MADT8101-Customer-analytic/assets/115640119/f8e3e24e-0d7f-42f8-87f0-165f64ed356a)
+![image](https://github.com/Plannjeera/MADT8101-Customer-analytic/assets/115640119/5eb1733c-7e85-46f0-b4ab-ec643f8374ac)
+![image](https://github.com/Plannjeera/MADT8101-Customer-analytic/assets/115640119/d100f4d4-24cc-494b-885b-263c47c54f1a)
+![image](https://github.com/Plannjeera/MADT8101-Customer-analytic/assets/115640119/f3e5b84d-4a66-431d-8c58-460898184cb3)
