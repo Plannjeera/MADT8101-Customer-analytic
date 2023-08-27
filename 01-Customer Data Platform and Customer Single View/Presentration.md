@@ -10,8 +10,9 @@
 ![image](https://github.com/Plannjeera/MADT8101-Customer-analytic/assets/115640119/d606f2ed-e8cb-4ffa-bbd4-493434e87dae)
 
 ## 2. Customer singleview
+### Dataset Supermarket.xlsx
 ![image](https://github.com/Plannjeera/MADT8101-Customer-analytic/assets/115640119/71dc2d53-43d9-46e0-8d54-3a00ff5ebb9a)
-![image](https://github.com/Plannjeera/MADT8101-Customer-analytic/assets/115640119/35b37402-6f8a-428b-aae3-596c263587e2)
+
 
 
 
