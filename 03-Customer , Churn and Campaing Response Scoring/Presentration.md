@@ -1,4 +1,6 @@
 ## Missing Data
+![image](https://github.com/Plannjeera/MADT8101-Customer-analytic/assets/115640119/68a52a22-d4ae-482a-871f-d0be2e89bdb2)
+### Missing Data in boxplot
 ![image](https://github.com/Plannjeera/MADT8101-Customer-analytic/assets/115640119/51507469-dfb1-4bf0-982d-0cf014c5f5ad)
 ## Data Correlation
 ![image](https://github.com/Plannjeera/MADT8101-Customer-analytic/assets/115640119/278ec13f-0563-4323-83e8-c5dd22dfc606)
