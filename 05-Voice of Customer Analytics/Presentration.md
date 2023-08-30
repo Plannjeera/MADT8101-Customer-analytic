@@ -1,4 +1,5 @@
-## Example DataSet
+## DataSet
+### Customer reviews of 4 Mala restaurants from Wongnai - only 16 instances.
 ![image](https://github.com/Plannjeera/MADT8101-Customer-analytic/assets/115640119/c5e90b90-78ad-4b2a-8029-e85253711894)
 ## Top 30 Most Salient Tearms
 ![image](https://github.com/Plannjeera/MADT8101-Customer-analytic/assets/115640119/f3e7f891-ee86-410a-8d2d-62e3769c2020)
