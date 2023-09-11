@@ -8,7 +8,10 @@
 
 ### 1. Customer Segmentation
 #### Customer Single view
-<img width="601" alt="image" src="https://github.com/Plannjeera/MADT8101-Customer-analytic/assets/115640119/b13a868b-743d-4676-a6ca-b6c6c321947d">
+<img width="942" alt="image" src="https://github.com/Plannjeera/MADT8101-Customer-analytic/assets/115640119/4d314257-e4b8-4c15-bc87-7896dec6cee3">
+
+#### Feature importance from Random Forest
+<img width="896" alt="image" src="https://github.com/Plannjeera/MADT8101-Customer-analytic/assets/115640119/5a3d282b-598f-4597-97c0-7392a3c28767">
 
 #### Comparative Analysis of customer segments Over a Six-Month Period
 ![image](https://github.com/Plannjeera/MADT8101-Customer-analytic/assets/115640119/4dd4d60c-dab6-4f88-9f88-d8b4cb47357a)
